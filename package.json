@@ -1,0 +1,20 @@
+{
+  "name": "samplebackend",
+  "version": "1.0.0",
+  "description": "Sample backend application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnkasikci/sampleBackend.git"
+  },
+  "author": "Muhammed Nurbaki Kasikci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnkasikci/sampleBackend/issues"
+  },
+  "homepage": "https://github.com/mnkasikci/sampleBackend#readme"
+}
